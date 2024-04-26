@@ -32,7 +32,7 @@ To run the app locally, follow these steps:
 4. Enjoy connecting with your fellow graduates!
 
 ## Demo pics
-![Alumni Connect App Project_page-0002](https://github.com/PranjalShinde18/Alumni_Net-App/assets/114181026/e7fa409d-50b4-4249-88b8-2ae301afb73f)
 ![Alumni Connect App Project_page-0001](https://github.com/PranjalShinde18/Alumni_Net-App/assets/114181026/7af35016-8094-4c0a-8cb3-df92ba18f9b7)
+![Alumni Connect App Project_page-0002](https://github.com/PranjalShinde18/Alumni_Net-App/assets/114181026/e7fa409d-50b4-4249-88b8-2ae301afb73f)
 ![Alumni Connect App Project_page-0003](https://github.com/PranjalShinde18/Alumni_Net-App/assets/114181026/9c595b0b-af67-4a13-81c0-c39a347cdb68)
 
